@@ -1,4 +1,4 @@
- kasmd
+ns kasmd
 wd gybbnn sdfc
 f
 sd
